@@ -17,7 +17,7 @@
 
 <resources>
 
-    <string name="empty_list">Searching for nearby treks...</string>
+    <string name="empty_list">Searching for treks...</string>
     <string name="nearby_attraction">Nearby treks</string>
     <string name="action_test_notification">Test Notification</string>
     <string name="action_test_notification_dialog">

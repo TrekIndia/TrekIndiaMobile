@@ -27,14 +27,14 @@
         android:layout_height="match_parent"
         android:scrollbars="vertical" />
 
-    <!--<TextView-->
-        <!--android:id="@android:id/empty"-->
-        <!--android:text="@string/empty_list"-->
-        <!--style="?android:attr/textAppearanceMedium"-->
-        <!--android:layout_width="match_parent"-->
-        <!--android:layout_height="match_parent"-->
-        <!--android:layout_gravity="center"-->
-        <!--android:gravity="center" />-->
+    <TextView
+        android:id="@android:id/empty"
+        android:text="@string/empty_list"
+        style="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:gravity="center" />
 
     <!--<ImageView-->
         <!--android:id="@android:id/empty"-->
@@ -42,13 +42,13 @@
         <!--android:layout_height="match_parent"-->
 
         <!--/>-->
-    <pl.droidsonroids.gif.GifImageView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:src="@drawable/dashinfinity"
-        android:id="@android:id/empty"
-        android:layout_gravity="center"
-        android:gravity="center"
-        />
+    <!--<pl.droidsonroids.gif.GifImageView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:src="@drawable/dashinfinity"-->
+        <!--android:id="@android:id/empty"-->
+        <!--android:layout_gravity="center"-->
+        <!--android:gravity="center"-->
+        <!--/>-->
 
 </LinearLayout>
